@@ -1,6 +1,6 @@
 ![Artboard][NuggetLogo]
 
-# Nugget
+# EBLAN PRO
 Unlock your device's full potential!
 
 Customize your device with animated wallpapers, disable pesky daemons, and more!
@@ -8,7 +8,7 @@ Customize your device with animated wallpapers, disable pesky daemons, and more!
 Make sure you have installed the [requirements](#requirements) if you are on Windows or Linux.
 
 > [!NOTE]
-> Please back up your data before using this Project! Nugget may cause unforeseen problems, so it is better to be safe than sorry. We are not responsible for any damage done to your device.
+> Please back up your data before using this Project! EBLANPRO may cause unforeseen problems, so it is better to be safe than sorry. We are not responsible for any damage done to your device.
 
 ## Features
 <details>
